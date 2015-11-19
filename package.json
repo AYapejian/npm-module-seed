@@ -1,0 +1,21 @@
+{
+  "name": "npm-module-seed",
+  "version": "0.0.1",
+  "description": "Seed project for creating shareable npm modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ara Yapejian",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-jasmine": "^2.2.1",
+    "gulp-watch": "^4.3.5",
+    "jasmine": "^2.3.2"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
