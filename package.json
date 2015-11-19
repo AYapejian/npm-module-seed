@@ -10,9 +10,11 @@
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
-    "gulp-batch": "^1.0.5",
+    "gulp-istanbul": "^0.10.2",
     "gulp-jasmine": "^2.2.1",
-    "gulp-watch": "^4.3.5",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-util": "^3.0.7",
     "jasmine": "^2.3.2"
   },
   "dependencies": {
